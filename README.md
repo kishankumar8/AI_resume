@@ -106,4 +106,4 @@ Then open the local URL shown in the terminal (usually `http://localhost:8501`).
 
 ## License
 
-Use and modify freely for learnin
+Use and modify freely for 
