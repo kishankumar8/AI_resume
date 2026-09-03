@@ -104,4 +104,4 @@ Then open the local URL shown in the terminal (usually `http://localhost:8501`).
 - Missing keywords are terms from the job post that were **not found as written**. Synonyms may still exist in the resume.
 - The technical-skills list is a helper dictionary. Skills not on that list can still appear under matched keywords if they are in the job description.
 
-## Licen
+## Lice
