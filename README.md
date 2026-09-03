@@ -105,5 +105,3 @@ Then open the local URL shown in the terminal (usually `http://localhost:8501`).
 - The technical-skills list is a helper dictionary. Skills not on that list can still appear under matched keywords if they are in the job description.
 
 ## License
-
-U
