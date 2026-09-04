@@ -103,5 +103,3 @@ Then open the local URL shown in the terminal (usually `http://localhost:8501`).
 - If extraction fails, the PDF is likely scanned or image-heavy. Export again from Word/Google Docs as a simple PDF.
 - Missing keywords are terms from the job post that were **not found as written**. Synonyms may still exist in the resume.
 - The technical-skills list is a helper dictionary. Skills not on that list can still appear under matched keywords if they are in the job description.
-
-##
