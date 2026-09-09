@@ -84,7 +84,7 @@ Keyword matching and scoring **work without** an API key. Uncheck “Include det
 
 ## Run the app
 
-```bash
+```ba
 
 
 Then open the local URL shown in the terminal (usually `http://localhost:8501`).
