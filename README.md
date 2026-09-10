@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 Keyword matching and scoring **work without** an API key. Uncheck “Include detailed AI analysis” or leave the key empty if you only want the rule-based report.
 
-## Run the app
+## Run the a
 
 
 
