@@ -1,4 +1,4 @@
-# AI ATS Resume Analyzer
+# AI ATS Resume Analyzer .
 
 A beginner-friendly Streamlit app that compares a **resume PDF** with a **job description**, estimates an **ATS-style score**, and optionally asks an LLM for detailed feedback.
 
